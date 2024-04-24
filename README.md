@@ -6,20 +6,20 @@ A limpeza de dados no processo em SQL é essencial para garantir a precisão e c
 
 A limpeza de dados realizada no conjunto de dados do Nashville Housing, disponível aqui. Como ferramenta, foi utilizado o Microsoft SQL Management Server Studio.
 
-Etapas da limpeza de dados:
+# Etapas da limpeza de dados:
 
-Padronização do formato de data;
+1. Padronização do formato de data;
 
-Preenchimento de valores nos endereços nulos das propriedades;
+2. Preenchimento de valores nos endereços nulos das propriedades;
 
-Dividir o PropertyAddress e OwnerProperty em outras colunas;
+3. Dividir o PropertyAddress e OwnerProperty em outras colunas;
 
-Padronizar os Valores na Coluna “SoldAsVacant”;
+4. Padronizar os Valores na Coluna “SoldAsVacant”;
 
-Remover Dados Duplicados;
+5. Remover Dados Duplicados;
 
-Remover Colunas Desnecessárias.
+6. Remover Colunas Desnecessárias.
 
-Link para projeto completo no Medium:
+# Link para projeto completo no Medium:
 
 https://medium.com/@monyze/limpeza-de-dados-com-sql-nashville-housing-ec00214dbca5
